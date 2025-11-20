@@ -1,6 +1,6 @@
 Fielding Stats – Column Definitions (KPI)
 
-| **Column Name**            | **Definition**                                                                                                                                                      |
+| **KPI**            | **Definition**                                                                                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Player**                 | Name of the cricketer.                                                                                                                                              |
 | **Span**                   | The years between which the player appeared in matches (first year – last year).                                                                                    |
